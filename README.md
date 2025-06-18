@@ -3,9 +3,9 @@ This is my design for a prototype quadcopter flight controller board using the r
 
 Here is the [Schematic](Schematic.pdf) and also some renders of the finished board:
 
-<img src="https://github.com/user-attachments/assets/44d9822f-2134-4cca-997b-52fe90bb1cbf" alt="CloseUpFront" width="400"/>
+<img src="https://github.com/user-attachments/assets/03747724-e6eb-4a25-9e6e-05ac3ccbb617" alt="CloseUpFront2" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/10cec95d-9af3-4bd9-853c-ab5564dc4c6a" alt="CloseUpBack" width="400"/>
+<img src="https://github.com/user-attachments/assets/1bfb95ba-25b7-45d9-9898-d99bdaf8a12e" alt="CloseUpBack2" width="400"/>
 
 ### Main Features
 
