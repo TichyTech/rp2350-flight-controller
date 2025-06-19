@@ -1,5 +1,5 @@
 # rp2350-flight-controller
-This is my design for a simple quadcopter flight controller board using the raspberry pi rp2350 microcontroller at the center. 
+This is my design for a simple quadcopter flight controller board using the dual ARM Cortex-M33 Raspberry Pi [RP2350](https://www.raspberrypi.com/products/rp2350/) microcontroller at the center.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f8417588-fadb-41e4-a209-7a155e58ef71" alt="Feature" width="720"/>
@@ -21,7 +21,7 @@ This is my design for a simple quadcopter flight controller board using the rasp
 
 ### Main Features
 
-- Raspberry pi RP2350 microcontroller
+- Raspberry Pi RP2350 microcontroller dual ARM Cortex-M33 @ 133MHz (can be switched to dual Hazard3 RISC-V)
 - ICM-42605 IMU (SPI1)
 - BMP280 Barometer (SPI1)
 - LSM303DLHC Magnetometer (I2C)
