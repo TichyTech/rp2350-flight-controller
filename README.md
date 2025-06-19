@@ -2,21 +2,21 @@
 This is my design for a simple quadcopter flight controller board using the raspberry pi rp2350 microcontroller at the center. 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f8417588-fadb-41e4-a209-7a155e58ef71" alt="Feature" width="1080"/>
+<img src="https://github.com/user-attachments/assets/f8417588-fadb-41e4-a209-7a155e58ef71" alt="Feature" width="720"/>
 </p>
 
 ### [Schematic](Schematic.pdf)
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/03c6fbb7-4cb7-4f5e-bc76-9c4ed9c33439" alt="Schematic" width="480"/>
-<img src="https://github.com/user-attachments/assets/deb6fa9c-44d3-4bd1-9d9a-508375fcaa13" alt="Schematic2" width="480"/>
+<img src="https://github.com/user-attachments/assets/03c6fbb7-4cb7-4f5e-bc76-9c4ed9c33439" alt="Schematic" width="360"/>
+<img src="https://github.com/user-attachments/assets/deb6fa9c-44d3-4bd1-9d9a-508375fcaa13" alt="Schematic2" width="360"/>
 </p>
 
 ### Board preview
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/03747724-e6eb-4a25-9e6e-05ac3ccbb617" alt="CloseUpFront2" width="480"/>
-<img src="https://github.com/user-attachments/assets/1bfb95ba-25b7-45d9-9898-d99bdaf8a12e" alt="CloseUpBack2" width="480"/>
+<img src="https://github.com/user-attachments/assets/64967ffd-b356-4d3e-b8b2-37f0c5186aae" alt="CloseUpFront" width="360"/>
+<img src="https://github.com/user-attachments/assets/73288ab0-88da-4977-90d7-d28c7de68f6a" alt="CloseUpBack" width="360"/>
 </p>
 
 ### Main Features
